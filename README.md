@@ -1,1 +1,1 @@
-Telling the story og my life!!
+Telling the story of my life!!
