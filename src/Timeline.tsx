@@ -24,6 +24,19 @@ const timelineData = [
         details: "The journy of learning started with my first school. It was a nice school with a lot of friends and fun.",
         status: "g",
     },
+    {
+        year: "2009",
+        title: "I Got Brain! 🧠",
+        description: "Started performing better than most.",
+        details: "From a very little age I started outperforming most people of  my age.",
+        status: "g",
+    },
+    {
+        year: "2011",
+        title: "Became First in class. 🏆",
+        description: "Became first in class after skipping a class due to age.",
+        details: "First big achievement of my life, a moment which made me believe in myslef. It was a big thing for a 7 year old boy.",
+        status: "g",
     // Add more entries as needed
 ];
 
