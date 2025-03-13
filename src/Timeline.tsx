@@ -37,6 +37,7 @@ const timelineData = [
         description: "Became first in class after skipping a class due to age.",
         details: "First big achievement of my life, a moment which made me believe in myslef. It was a big thing for a 7 year old boy.",
         status: "g",
+    },
     // Add more entries as needed
 ];
 
