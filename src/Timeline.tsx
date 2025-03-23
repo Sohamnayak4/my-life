@@ -35,7 +35,7 @@ const timelineData = [
     status: "g",
   },
   {
-    year: "2011",
+    year: "2012",
     title: "Became First in class. 🏆",
     description: "Became first in class after skipping a class due to age.",
     details:
